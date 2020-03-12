@@ -5,6 +5,7 @@
 <?php
 
 echo "Welcome";
+ echo "test";
 
 ?>
 
