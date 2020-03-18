@@ -2,11 +2,9 @@
 
 <title>LearnCode</title>
 
-<?php
 
-echo "Welcome";
- echo "test";
 
-?>
+ <h1>Welcome</h1>
+
 
 </html>
